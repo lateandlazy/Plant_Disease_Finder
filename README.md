@@ -3,7 +3,7 @@ A project implemented using Jupyter Notebook and using Kaggle dataset.  Used to 
 
 
 
-For finding DataSet;Go to Kaggle and download the PlantVillage Dataset.
+For finding DataSet -> Go to Kaggle and download the "PlantVillage" Dataset.
 
 
 https://www.kaggle.com/sumanismcse/plant-disease-detection-using-keras
